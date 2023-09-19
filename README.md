@@ -47,3 +47,6 @@ deluser user1 Developers— удалить юзера user1 из групы Deve
 r — чтение;
 w — запись;
 x — исполнение.
+
+sudo dpkg -i -уставнока пакета 
+history - история всех запросов 
