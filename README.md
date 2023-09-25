@@ -50,3 +50,4 @@ x — исполнение.
 
 sudo dpkg -i -уставнока пакета 
 history - история всех запросов 
+k-vrachu.citromed35.ru/infomt/350101000000051
