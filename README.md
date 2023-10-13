@@ -50,7 +50,7 @@ x — исполнение.
 
 sudo dpkg -i -уставнока пакета 
 history - история всех запросов 
-k-vrachu.citromed35.ru/infomt/350101000000051
+
 русификация мазилы:
 sudo apt update && sudo apt install firefox firefox-locale-ru
 
